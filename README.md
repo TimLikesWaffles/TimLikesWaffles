@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TimLikesWaffles
+- 👀 I’m interested in game development
+- 🌱 I’m currently trying to learn programming in unity with C# without ever having touching code in my life.
